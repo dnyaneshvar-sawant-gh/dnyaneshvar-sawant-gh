@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/dnyaneshvar-sawant-gh/dnyaneshvar-sawant-gh/blob/main/logohh.png)
 <h1 align="center">Hi 👋, I'm Dnyaneshvar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 
