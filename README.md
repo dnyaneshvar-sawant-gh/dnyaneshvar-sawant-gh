@@ -1,7 +1,6 @@
+![logo]()
 <h1 align="center">Hi 👋, I'm Dnyaneshvar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
-<img align="center" width=500 src="https://github.com/dnyaneshvar-sawant-gh/dnyaneshvar-sawant-gh/assets/168169399/7da3258e-c11a-4244-9c54-5b36845220f9">
-
 
 - 🔭 I’m currently working on [OrangeHRM](https://github.com/dnyaneshvar-sawant-gh/SeleniumWithPythonProjects.git)
 
