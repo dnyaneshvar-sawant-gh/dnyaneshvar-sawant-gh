@@ -1,4 +1,4 @@
-![logo](https://github.com/dnyaneshvar-sawant-gh/dnyaneshvar-sawant-gh/blob/main/logohh.png)
+
 
 # Hello, I'm Dnyaneshvar!
 
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate Automation Tester specialized in 
 
 ## 💼 Some of My Projects
 
-### Selenium with Python (https://github.com/dnyaneshvar-sawant-gh/SeleniumWithPythonProjects.git)
+### Selenium with Python (https://github.com/dnyaneshvar-sawant-gh/OrangeHRM_Python.git)
 _Here I have automated some test scenarios of OrangeHRM using Selenium with python_
 
 Feel free to browse through my repositories to see more examples of my work and how I approach problems in the realm of software testing!
